@@ -1,4 +1,4 @@
-import styles from "../MovieCard.module.css"
+import styles from "./MovieCard.module.css"
 
 
 export function MovieCard({ movie }) {
