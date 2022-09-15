@@ -13,3 +13,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* To avoid default decoration in links of global way */
+a {
+  text-decoration: none;
+  color: white;
+}
