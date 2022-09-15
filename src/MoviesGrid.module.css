@@ -6,3 +6,10 @@
     padding: 40px;
     justify-content: center;
 }
+
+/* When the width was from 0 to 560px */
+@media (max-width: 560px) {
+    .moviesGrid {
+        grid-template-columns: 100%;
+    }
+}
